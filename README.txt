@@ -1,5 +1,6 @@
 Author: Alex McLeod
 Purpose: Code that uses virtual robots camera and cocoMobilenet model to detect and avoid simulated objects in Gazebo simulated environment. 
+LINK TO PROJECT PORTFOLIO: https://1drv.ms/f/s!ArmUv9st2PG-jc4LVLTEVWI__0uR1w?e=zkUeHI 
 
 Requirements"
 - Ubuntu 16.04 must be used.
